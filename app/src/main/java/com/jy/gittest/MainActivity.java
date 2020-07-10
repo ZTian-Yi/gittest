@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         String a1 = "66666";
         String a2 = "777";
         String zty="那日苏";
+        String nsr="ZTY";
 
     }
 }
